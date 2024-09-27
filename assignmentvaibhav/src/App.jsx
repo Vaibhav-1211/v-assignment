@@ -1,11 +1,9 @@
-import Main from "./components/Main";
-import MainPage from "./components/MainPage";
+import FieldMapping from "./components/FieldMapping";
 
 function App() {
   return (
     <>
-      {/* <Main /> */}
-      <MainPage />
+      <FieldMapping />
     </>
   );
 }
